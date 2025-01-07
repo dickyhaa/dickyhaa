@@ -39,11 +39,11 @@
       target="_blank" />
   </a>
 </div>
+<br />
 
 <hr />
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br />
 <div align="center">
   <img
     src="https://skillicons.dev/icons?i=html,css,javascript,py,c,cpp,mysql,bash"
@@ -52,25 +52,33 @@
     src="https://skillicons.dev/icons?i=github,figma,git,linux,vscode"
   /><br />
 </div>
-
 <br />
+
 <hr />
 
+<h2 align="center">🐍 My Contributions 🐍</h2>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br />
   <img
     alt="Generate snake animations"
     src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/github-contribution-grid-snake.svg"
   />
-
-  <br /><br /><br />
 </div>
 
 <hr />
 
-<h2 align="center">⚡ GitHub Analytics ⚡</h2>
+<h2 align="center">🏆 Github Profile Trophy 🏆</h2>
+<div align="center">
+    <a href="https://github.com/dickyhaa/github-profile-trophy">
+    <img 
+      width=900 src="https://github-profile-trophy.vercel.app/?username=dickyhaa&column=8&theme=toknonight&no-frame=false"
+    /><br />
+</div>
 <br />
+<br />
+      
+<hr />
+
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <div align="center">
   <img
     width="390"
@@ -91,8 +99,5 @@
   />
 </div>
 
-<br /><br />
-
-<hr />
-
 <br />
+<hr />
