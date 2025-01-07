@@ -11,6 +11,7 @@
 
 <h3 align="center">👨🏻‍💻 A Traveler Exploring the World of Front-End and Design 🎨.</h3>
 
+
 <br />
 
 <div align="center">
@@ -28,11 +29,14 @@
   <a href="mailto:dickyhaikal12@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/m-dicky-haikal-aly" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/m-dicky-haikal-aly-53768528b/"
+    target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      target="_blank" />
   </a>
-  <a href="https://instagram.com/dickyhaa12" target="_blank"></a>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <a href="https://instagram.com/dickyhaa12" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+      target="_blank" />
   </a>
 </div>
 
@@ -65,7 +69,7 @@
 
 <hr />
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <br />
 <div align="center">
   <img
