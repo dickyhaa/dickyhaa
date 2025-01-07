@@ -1,9 +1,27 @@
 <img
+  align="right"
+  src="https://visitor-badge.laobi.icu/badge?page_id=dickyhaa.12&left_color=black&right_color=blue"
+/>
+
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Dicky+Haikal+Aly!;"
+  />
+</h1>
+
+<h3 align="center">👨🏻‍💻 A Traveler Exploring the World of Front-End and Design 🎨.</h3>
+
+<br />
+
+<div align="center">
+  
+  Hi! I'm a student at **UPN "Veteran" East Java**, majoring in **Informatics**.
+  
+  I focus on **Front-End Web Development** and **Design**, crafting interactive and visually appealing web experiences.
   
   ⚡ Always learning and growing—this is just the beginning of my journey! ⚡ 
-  
+
   ***🚀 Let’s connect and create something amazing together! 🚀***
-  
 </div>
 
 <div align="center">
@@ -38,7 +56,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br />
   <img
-    alt="Generate Snake Contribution Graph"
+    alt="Generate snake animations"
     src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/github-contribution-grid-snake.svg"
   />
 
