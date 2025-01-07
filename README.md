@@ -1,6 +1,6 @@
 <img
   align="right"
-  src="https://visitor-badge.laobi.icu/badge?page_id=dickyhaa.12&left_color=black&right_color=blue"
+  src="https://visitor-badge.laobi.icu/badge?page_id=dickyhaa.12&left_color=grey&right_color=blue"
 />
 
 <h1 align="center">
@@ -70,10 +70,9 @@
 <div align="center">
     <a href="https://github.com/dickyhaa/github-profile-trophy">
     <img 
-      width=900 src="https://github-profile-trophy.vercel.app/?username=dickyhaa&column=8&theme=toknonight&no-frame=false"
+      width=750 src="https://github-profile-trophy.vercel.app/?username=dickyhaa&column=8&theme=toknonight&no-frame=false"
     /><br />
 </div>
-<br />
 <br />
       
 <hr />
@@ -81,7 +80,7 @@
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <div align="center">
   <img
-    width="390"
+    width="415"
     src="https://streak-stats.demolab.com?user=dickyhaa&theme=tokyonight&border_radius=5&short_numbers=true&mode=weekly"
     alt="GitHub Streak"
   />
