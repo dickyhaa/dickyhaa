@@ -70,7 +70,7 @@
 <div align="center">
     <a href="https://github.com/dickyhaa/github-profile-trophy">
     <img 
-      width=750 src="https://github-profile-trophy.vercel.app/?username=dickyhaa&column=8&theme=toknonight&no-frame=false"
+      width=950 src="https://github-profile-trophy.vercel.app/?username=dickyhaa&column=8&theme=toknonight&no-frame=false"
     /><br />
 </div>
 <br />
