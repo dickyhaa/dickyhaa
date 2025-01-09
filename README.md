@@ -49,7 +49,7 @@
     src="https://skillicons.dev/icons?i=html,css,javascript,py,c,cpp,mysql,bash"
   />
   <img
-    src="https://skillicons.dev/icons?i=github,figma,git,linux,vscode"
+    src="https://skillicons.dev/icons?i=vscode,github,git,figma,linux"
   /><br />
 </div>
 <br />
@@ -80,7 +80,7 @@
 <h2 align="center">⚡ GitHub Analytics ⚡</h2>
 <div align="center">
   <img
-    width="415"
+    width="413"
     src="https://streak-stats.demolab.com?user=dickyhaa&theme=tokyonight&border_radius=5&short_numbers=true&mode=weekly"
     alt="GitHub Streak"
   />
