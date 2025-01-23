@@ -9,7 +9,7 @@
   />
 </h1>
 
-<h3 align="center">👨🏻‍💻 A Traveler Exploring the World of Front-End and Design 🎨.</h3>
+<h3 align="center">👨🏻‍💻 A Digital Adventurer Exploring the World of Front-End, Design, and Machine Learning 🎨🤖.</h3>
 
 
 <br />
@@ -18,7 +18,7 @@
   
   Hi! I'm a student at **UPN "Veteran" East Java**, majoring in **Informatics**.
   
-  I focus on **Front-End Web Development** and **Design**, crafting interactive and visually appealing web experiences.
+  I focus on **Front-End Web Development** and **Design**, crafting interactive and visually appealing web experiences. I'm also currently exploring the exciting field of **Machine Learning** to expand my skill set.
   
   ⚡ Always learning and growing—this is just the beginning of my journey! ⚡ 
 
