@@ -1,3 +1,10 @@
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
+    style="width: auto; height: auto; border-radius: 15px;"
+  />
+</div>
+
 <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=dickyhaa.12&left_color=grey&right_color=blue"
