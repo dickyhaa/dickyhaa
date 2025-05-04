@@ -11,7 +11,6 @@
 
 <h3 align="center">👨🏻‍💻 A Digital Adventurer Exploring the World of Front-End, Design, and Machine Learning 🎨🤖.</h3>
 
-
 <br />
 
 <div align="center">
@@ -20,9 +19,10 @@
   
   I focus on **Front-End Web Development** and **Design**, crafting interactive and visually appealing web experiences. I'm also currently exploring the exciting field of **Machine Learning** to expand my skill set.
   
-  ⚡ Always learning and growing—this is just the beginning of my journey! ⚡ 
+  ⚡ Always learning and growing—this is just the beginning of my journey! ⚡
 
-  ***🚀 Let’s connect and create something amazing together! 🚀***
+**_🚀 Let’s connect and create something amazing together! 🚀_**
+
 </div>
 
 <div align="center">
@@ -56,12 +56,13 @@
 
 <hr />
 
-<h2 align="center">🐍 My Contributions 🐍</h2>
+<h2 align="center">👾 My Contributions 👾</h2>
 <div align="center">
-  <img
-    alt="Generate snake animations"
-    src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/github-contribution-grid-snake.svg"
-  />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph.svg">
+</picture>
 </div>
 
 <hr />
