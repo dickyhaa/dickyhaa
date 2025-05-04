@@ -1,10 +1,3 @@
-<div align="center">
-  <img 
-    src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
-    style="width: auto; height: auto; border-radius: 15px;"
-  />
-</div>
-
 <img
   align="right"
   src="https://visitor-badge.laobi.icu/badge?page_id=dickyhaa.12&left_color=grey&right_color=blue"
@@ -15,6 +8,13 @@
     src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+M+Dicky+Haikal+Aly!;"
   />
 </h1>
+
+<div align="center">
+  <img 
+    src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
+    style="width: auto; height: auto; border-radius: 20px;"
+  />
+</div>
 
 <h3 align="center">👨🏻‍💻 A Digital Adventurer Exploring the World of Front-End, Design, and Machine Learning 🎨🤖.</h3>
 
