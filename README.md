@@ -11,7 +11,7 @@
 
 <div align="center">
   <img 
-    src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" 
+    src="https://inspgr.id/app/uploads/2023/05/pixel-art-kirokaze-07.gif" 
     style="width: auto; height: auto; border-radius: 20px;"
   />
 </div>
