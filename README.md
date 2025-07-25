@@ -73,12 +73,10 @@ I'm passionate about:
 
 ---
 
-## 👾 My Contributions
+## 🐍 My Contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/pacman-contribution-graph.svg">
+<picture align="center">
+  <img src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
 </picture>
 
 ---
@@ -86,7 +84,7 @@ I'm passionate about:
 ## 🏆 GitHub Profile Trophy
 
 <div>
-  <img src="https://github-profile-trophy.vercel.app/?username=dickyhaa&&theme=tokyonigh&no-frame=false" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dickyhaa&theme=tokyonigh&no-frame=false&title=Followers,Repositories,Stars,Commit,PullRequest,Issues" />
 </div>
 
 ---
