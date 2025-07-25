@@ -73,22 +73,6 @@ I'm passionate about:
 
 ---
 
-## 🐍 My Contributions
-
-<picture align="center">
-  <img src="https://raw.githubusercontent.com/dickyhaa/dickyhaa/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
-</picture>
-
----
-
-## 🏆 GitHub Profile Trophy
-
-<div>
-  <img src="https://github-profile-trophy.vercel.app/?username=dickyhaa&theme=tokyonigh&no-frame=false&title=Followers,Repositories,Stars,Commit,PullRequest,Issues" />
-</div>
-
----
-
 ## ⚡ GitHub Analytics
 
 <div>
