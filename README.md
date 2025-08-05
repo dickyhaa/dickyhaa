@@ -80,6 +80,7 @@ I'm passionate about:
   <img width="390" src="https://github-readme-stats.vercel.app/api?username=dickyhaa&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="Readme Stats"/>
   <br/>
   <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dickyhaa&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Langs"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dickyhaa&theme=tokyonight&hide_border=false" alt="GitHub Activity Graph"/>
 </div>
 
 ---
